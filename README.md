@@ -42,4 +42,4 @@ Deliverable 1: Retrieve Weather Data
 - A direction layer map.
 - A marker layer map.
 
-![image](https://user-images.githubusercontent.com/92646311/169721295-48fa15a0-c413-4cb6-9b2b-87a08fedb9a1.png)
+
