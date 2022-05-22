@@ -1,13 +1,15 @@
 # World_Weather_Analysis
 
-Basic Project Plan
+Basic Project Plan:
 Here's an outline of the project plan:
 
 Task: Collect and analyze weather data across cities worldwide.
+
 Purpose: PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
+
 Method: Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
 
-#Background
+# Project Description 
 
 Jack loves the PlanMyTrip app. Beta testers love it too. And, as with any new product, they’ve recommended a few changes to take the app to the next level. Specifically, they recommend adding the weather description to the weather data we have already retrieved in this module. Then, we had the beta testers use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, we created a travel route between the four cities as well as a marker layer map.
 
